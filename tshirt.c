@@ -1,8 +1,3 @@
-/* Name: Parag Jain
-U ID: U81673988
-DESCRIPTION: This contains all the functions.
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
