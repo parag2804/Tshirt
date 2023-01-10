@@ -1,8 +1,3 @@
-/*
-NAME: Parag Jain
-U ID: U85118615
-*/
-
 #ifndef TSHIRT_H
 #define TSHIRT_H
 
