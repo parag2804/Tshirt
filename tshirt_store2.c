@@ -1,7 +1,3 @@
-/*
-Name: Parag Jain
-U ID: U85118615
-*/
 
 /* main function source code */
 
