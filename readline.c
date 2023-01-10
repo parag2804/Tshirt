@@ -1,9 +1,3 @@
-/*
-NAME: Parag Jain
-U ID: U85118615
-DESCRIPTION: This contains all the instructions for the readline function
-*/
-
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
